@@ -1,4 +1,4 @@
-:cherry_blossom: :lollipop: brainjig, update in progress . . 
+:cherry_blossom: :lollipop: BrainJig, update in progress . . 
 ==========
 
 .
