@@ -21,7 +21,7 @@ Characters in this game are modeled after a character from Pokemon called Jiggly
 _ https://en.wikipedia.org/wiki/Jigglypuff  
 _ https://bulbapedia.bulbagarden.net/wiki/Jigglypuff_(Pokémon)  
 _ https://www.pokemon.com/us/pokedex/jigglypuff  
-
+_ http://pokemon.wikia.com/wiki/Jigglypuff  
 
 .
 
