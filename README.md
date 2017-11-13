@@ -9,6 +9,7 @@ Original code created by ___ ___ aa and the orginal game site can be played here
 
 .
 
+Modified in progress game from code can be viewed and played here - https://kyle2501.github.io/brainjig/
 _
 
 This game is based on a game called "Memory" also sometimes known as "Concentration Game".
